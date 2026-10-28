@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.791,=D:\STAF\Canon\4_CanonSDK\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,D:\STAF\Canon\4_CanonSDK\Unit1.pas=D:\STAF\Canon\4_CanonSDK\STAFCanon.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,D:\STAF\Canon\4_CanonSDK\Unit20.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,C:\Users\Lenovo\Documents\RAD Studio\Projects\Unit20.dfm=D:\STAF\Canon\4_CanonSDK\Unit20.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,C:\Users\Lenovo\Documents\RAD Studio\Projects\Project19.dproj=D:\STAF\Canon\4_CanonSDK\CanonVezerlo.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,=C:\Users\Lenovo\Documents\RAD Studio\Projects\Unit20.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,C:\Users\Lenovo\Documents\RAD Studio\Projects\Unit20.pas=D:\STAF\Canon\4_CanonSDK\Unit20.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.130,=D:\STAF\Canon\4_CanonSDK\uMainForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.464,=D:\STAF\Canon\4_CanonSDK\uMainForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.391,D:\STAF\Canon\4_CanonSDK\uMainForm.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
