@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.604,D:\STAF\Canon\4_CanonSDK\TCanon teszt\StafCanonTeszt.dproj=C:\Users\Lenovo\Documents\RAD Studio\Projects\Project19.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,=D:\STAF\Canon\4_CanonSDK\TCanon teszt\UFormLiveview.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.257,=C:\Users\Lenovo\Documents\RAD Studio\Projects\Unit20.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,=D:\STAF\Canon\4_CanonSDK\TCanon teszt\UFormMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
